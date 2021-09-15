@@ -27,7 +27,7 @@
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-helmet": "^5.2.0",
-    "set-value": "2.0.1",
+    "set-value": "4.0.1",
     "shopify-buy": "^2.7.2"
   },
   "keywords": [
